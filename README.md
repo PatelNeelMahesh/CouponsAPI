@@ -1,4 +1,3 @@
 # CouponsAPI
 
-Run 
 #npm install
